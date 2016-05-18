@@ -1,1 +1,9 @@
+language:
+  - cpp
 
+install:
+  - pwd
+
+script:
+  - make clean
+  - make
